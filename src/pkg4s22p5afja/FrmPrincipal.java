@@ -13,7 +13,7 @@ import javax.swing.ButtonGroup;
 
 /**
  *
-
+ * @author Adrian Flores
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 
